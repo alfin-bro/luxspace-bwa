@@ -5,3 +5,5 @@ import "./scroll";
 import "./carousel";
 import "./accordion";
 import "./slider";
+import "./shoppingCart";
+import "./shippingDetailsCart";
